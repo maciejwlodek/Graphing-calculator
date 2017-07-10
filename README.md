@@ -1,7 +1,8 @@
 # Graphing-calculator
 Created March 2017. 
 
-Features: Evaluates arithmetic expressions
+
+     Features: Evaluates arithmetic expressions
 
           Supports operations +-*/^() sin cos tan arcsin arccos arctan ln log sqrt abs gamma floor ceiling
           
